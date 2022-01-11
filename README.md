@@ -1,9 +1,9 @@
 
 # Image Recognition Classifier using CNN, Keras and Tensorflow
-new era of A.I., machine learning, and robotics, its time for the machines to perform tasks characteristic of human intelligence. Machines use their own senses to do things like planning, pattern recognizing, understanding natural language, learning and solving problems. And Image Recognition is one of its senses!!!
+New era of A.I., machine learning, and robotics, its time for the machines to perform tasks characteristic of human intelligence. Machines use their own senses to do things like planning, pattern recognizing, understanding natural language, learning and solving problems. And Image Recognition is one of its senses!!!
 So, why not create our own Image Recognition Classifier, and that too with a few lines of code, thanks to the modern day machine learning libraries. Let’s get started !!
 # Getting Started — Cars or BIKES
-a simple image recognition tool that classifies whether the image is of a dog or a cat. The idea is to create a simple Cars/Bikes Image classifier and then applying the concepts on a bigger scale.
+A simple image recognition tool that classifies whether the image is of a dog or a cat. The idea is to create a simple Cars/Bikes Image classifier and then applying the concepts on a bigger scale.
 # Tools And Technologies
 Anaconda-Anaconda is a free and open source distribution of the Python and R programming languages for data science and machine learning related applications, that aims to simplify package management and deployment. You can download it from the link below according to your system https://www.anaconda.com/download/
 
